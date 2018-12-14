@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuzufbaApp</string>
+    <string name="logo_app">Buzufba</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678360996899",
+    "firebase_url": "https://buzufba-app-f6c89.firebaseio.com",
+    "project_id": "buzufba-app-f6c89",
+    "storage_bucket": "buzufba-app-f6c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678360996899:android:3a25880e4fda9184",
+        "android_client_info": {
+          "package_name": "com.example.vinicius.buzufbaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678360996899-96cmqi81q0bau4pub82m5ec6bshaip9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinicius.buzufbaapp",
+            "certificate_hash": "fa98c28628a957d9c2547d7b33fb7ddbed67b015"
+          }
+        },
+        {
+          "client_id": "678360996899-t5nuuqgd4ff2iv5ip0v988v7ojoltnka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSYG8aGK_Zq9mWZngmmb9reuZiYpppbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678360996899-t5nuuqgd4ff2iv5ip0v988v7ojoltnka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
